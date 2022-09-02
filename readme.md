@@ -46,7 +46,7 @@ It also provides a facade interface (`Debugbar`) for easy logging Messages, Exce
 Require this package with composer. It is recommended to only require the package for development.
 
 ```shell
-composer require barryvdh/laravel-debugbar --dev
+composer require new999day/lumen-debugbar --dev
 ```
 
 Laravel uses Package Auto-Discovery, so doesn't require you to manually add the ServiceProvider.
