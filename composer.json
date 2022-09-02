@@ -1,7 +1,7 @@
 {
-    "name": "barryvdh/laravel-debugbar",
+    "name": "new999day/lumen-debugbar",
     "description": "PHP Debugbar integration for Laravel",
-    "keywords": ["laravel", "debugbar", "profiler", "debug", "webprofiler"],
+    "keywords": ["laravel", "lumen", "debugbar", "profiler", "debug", "webprofiler"],
     "license": "MIT",
     "authors": [
         {
